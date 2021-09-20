@@ -1,4 +1,4 @@
-*DICE GAME*
+# DICE GAME
 
 It's a multiplayer dice game for 2 players
 
@@ -10,3 +10,11 @@ If the player want to make a riskier move he can choose for "Double or Nothing".
 The first player to get 20 points is the WINNER! 
 
 LET'S PLAY!
+
+## Quick start:
+
+
+```
+npm install
+npm run build
+````
